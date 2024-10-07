@@ -1,7 +1,7 @@
 <h1 align="center"> Hello There! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=It's+Sharindu+Malaka!;Passionate+IT+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=I'm +Sharindu+Malaka!;Passionate+IT+Student)](https://git.io/typing-svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sharindumalaka&label=Profile%20views&color=0e75b6&style=flat" alt="sharindumalaka" /> </p>
 
