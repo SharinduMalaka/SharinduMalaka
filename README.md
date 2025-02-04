@@ -9,17 +9,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **DEVOPS**
   
-
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
-
 
 - 📫 How to reach me [sharindupathmasiri@gmail.com](sharindupathmasiri@gmail.com)
 
-  
 
-- 💬 Ask me about **react,java, Adobe illustrator**
+- 💬 Ask me about **React,java, Laravel, Adobe illustrator**
 
 
 - 😄 Fun fact **I love Graphic Designs, Codeing(💻), Traveling(🌍)**
